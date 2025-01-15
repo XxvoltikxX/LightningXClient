@@ -1,6 +1,0 @@
-{
-  "name": "LightningX",
-  "version": "1.0",
-  "features": ["moduleA", "moduleB", "moduleC"],
-  "apiStatus": "online"
-}
