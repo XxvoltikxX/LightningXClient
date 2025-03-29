@@ -1,0 +1,16 @@
+{
+  "votes": [
+    {
+      "user": "User1",
+      "server": "Server1",
+      "date": "2025-03-29",
+      "voteCount": 5
+    },
+    {
+      "user": "User2",
+      "server": "Server2",
+      "date": "2025-03-28",
+      "voteCount": 3
+    }
+  ]
+}
